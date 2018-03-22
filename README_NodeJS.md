@@ -7,7 +7,8 @@ touch api/controllers/todoListController.js api/models/todoListModel.js api/rout
 ```
 
 ## Install express and mongoose(MongoDB driver for NodeJS)
-```npm install --save-dev nodemon
+```
+npm install --save-dev nodemon
 
 npm install express --save
 
