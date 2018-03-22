@@ -6,7 +6,7 @@ mkdir api/controllers api/models api/routes
 touch api/controllers/todoListController.js api/models/todoListModel.js api/routes/todoListRoutes.js
 ```
 
-## Install express and mongoose(MongoDB driver for NodeJS)
+## Install express, nodemon and mongoose(MongoDB driver for NodeJS)
 ```
 npm install --save-dev nodemon
 
